@@ -70,7 +70,7 @@ Con esta información podemos concluir:
 
 `Tercer KPI (historico velocidad de internet)`
 
-<img src =
+<img src = "SRC/3. KPI Historico velocidad de internet.png">
 
 Con esta información observamos lo siguiente:
 - la velocidad media de bajada varia a lo largo de los años y trimestres
