@@ -42,7 +42,7 @@ Con los Datasets extraidos de Enacom realizaremos un proceso de ETL  y EDA para 
 
  `Primer KPI (Penetración de internet por cada 100 hogares)`
 
-<img src = https://github.com/bety2022/PI2_TELECOMUNICACIONES_DTS12/blob/master/SRC/1.%20KPI%20Penetraci%C3%B3n%20de%20internet%20por%20cada%20100%20hogares.png
+<img src = "https://github.com/bety2022/PI2_TELECOMUNICACIONES_DTS12/blob/master/SRC/1.%20KPI%20Penetraci%C3%B3n%20de%20internet%20por%20cada%20100%20hogares.png"
 
 En este análisis observamos algunos valores atípicos como son:
 
