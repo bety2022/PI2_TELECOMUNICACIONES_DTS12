@@ -24,7 +24,7 @@ Esto me permite poder aportar mis conocimientos como Data Analyst y de esta mane
 
 
 
-[EDA_ETL.ipynb] = (https://github.com/bety2022/PI2_TELECOMUNICACIONES_DTS12/blob/master/EDA_ETL.ipynb)
+<[EDA_ETL.ipynb] = "(https://github.com/bety2022/PI2_TELECOMUNICACIONES_DTS12/blob/master/EDA_ETL.ipynb)">
 
 `Dashboard`
 
