@@ -59,7 +59,7 @@ En este análisis observamos algunos valores atípicos como son:
 
  `Segundo KPI (Internet Por tecnologia y localidad)`
 
-<img src =
+<img src = "SRC/2. KPI Internet por tecnologia y localidad.png">
 
 Con esta información podemos concluir:
 - Las provincias de buenos aires, Córdoba y santa fe: tienen un mayor número de datos recolectados ya que son las provincias más pobladas y con mayor actividad económica
