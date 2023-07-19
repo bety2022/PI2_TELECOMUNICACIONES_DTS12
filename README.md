@@ -32,7 +32,7 @@ Completé la creación del dashboard utilizando Power BI, el cual fue alimentado
 
 Para alcanzar estos objetivos es de vital importancia llevar a cabo las métricas KPI, las cuales se encuentran registradas a continuación.
 
-[DASHBOARD_TELECOMUNICACIONES.pbix]
+[DASHBOARD_TELECOMUNICACIONES.pbix](https://github.com/bety2022/PI2_TELECOMUNICACIONES_DTS12/blob/master/DASHBOARD_TELECOMUNICACIONES.pbix)
 
 `KPIs y Analisis`
 
